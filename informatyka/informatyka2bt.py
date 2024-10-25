@@ -15,4 +15,4 @@ if f(a)f(b)<=0:
         if f(a)*f(s)<0:
             b=s
         else:
-            a=s
+            a=d
